@@ -3,4 +3,4 @@ Section: C1-L
 
 
 Expectations: Mahirap since wala pa ako gaano experience sa web development
-
+Partner comment: Hindi yan mahirap!! Magaling ka naman pati yung lab instructor natin (hi sir)
