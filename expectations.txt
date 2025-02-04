@@ -1,0 +1,6 @@
+Name: Sebastian Andrei P. Merdegia
+Section: C1-L
+
+
+Expectations: Mahirap since wala pa ako gaano experience sa web development
+
